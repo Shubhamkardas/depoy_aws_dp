@@ -8,8 +8,7 @@
     - Permissions - Admin
 2. Create an EC2 instance
     - Select an OS image - Ubuntu
-    - Create a new key pair & download `.pem` file
-    - Instance type - t2.micro
+  - Instance type - t2.micro
 3. Connecting to the instance
 
 1. Clone this project
